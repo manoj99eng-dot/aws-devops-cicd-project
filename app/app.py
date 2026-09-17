@@ -11,8 +11,7 @@ def home():
         </head>
         <body>
             <h1>AWS DevOps CI/CD Project</h1>
-            <p>Application deployed using Jenkins, Docker and AWS EC2.</p>
-            <p>Author: Manoj</p>
+            <p>Application deployed automatically using Jenkins CI/CD.</p>            <p>Author: Manoj</p>
         </body>
     </html>
     """
