@@ -617,48 +617,6 @@ The main objectives of this project are:
 6. Verify application health after deployment.
 7. Demonstrate a practical end-to-end DevOps workflow.
 
----
-
-# 💼 Resume Description
-
-### AWS DevOps CI/CD Pipeline
-
-**Technologies:** AWS EC2, Jenkins, GitHub, GitHub Webhooks, Docker, Docker Hub, Python, Flask, Linux
-
-> Developed an end-to-end CI/CD pipeline for a Python Flask application using GitHub, Jenkins, Docker and AWS EC2. Implemented GitHub webhook-triggered Jenkins builds, automated application testing, Docker image creation and versioning, Docker Hub publishing, automated EC2 container deployment, and post-deployment health validation.
-
----
-
-# 📌 Key Achievement
-
-The project implements the following automated workflow:
-
-```text
-git push
-   ↓
-GitHub Webhook
-   ↓
-Jenkins
-   ↓
-Code Checkout
-   ↓
-Application Test
-   ↓
-Docker Build
-   ↓
-Docker Hub Push
-   ↓
-EC2 Deployment
-   ↓
-Container Health Check
-   ↓
-Deployment Complete
-```
-
-This demonstrates an end-to-end automated DevOps delivery process from **source code commit to running application**.
-
----
-
 # 👨‍💻 Author
 
 **Manoj**
